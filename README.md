@@ -1,8 +1,8 @@
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Murilo Modolo Bomfim
+Meu nome é **Murilo Modolo Bomfim**
 
-•Estou estudando na Alura
+•Estou estudando na **Alura**
 
 •Estou me desenvolvendo na linguagem JavaScript
 
@@ -10,4 +10,4 @@ Meu nome é Murilo Modolo Bomfim
 
 Você pode entrar em contato comigo 📫
 
-00001125549622sp@al.educacao.sp.gov.br
+**00001125549622sp@al.educacao.sp.gov.br**
